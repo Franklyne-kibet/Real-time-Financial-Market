@@ -1,0 +1,5 @@
+kafka-python==2.0.2
+# kafka-python==1.4.6
+websocket-client==1.5.1
+finnhub-python==2.4.15
+avro-python3==1.10.2
